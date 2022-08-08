@@ -26,7 +26,7 @@ class _HomeState extends State<Home> {
                 icon: Icon(
                   Icons.search,
                   color: Pallete.text,
-                  size: 30,
+                  size: 3,
                 ))
           ],
         ),
